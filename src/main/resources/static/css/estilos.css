@@ -1,0 +1,42 @@
+/*Es archivo de estilo*/
+h3{
+               text-align:center;
+               background-color: black;
+               color:whitesmoke;
+            }
+            body{
+                background-color:bisque;
+            }
+            h2{
+               text-align:right;
+               background-color: greenyellow;
+               color:black;
+            }
+            
+            /*Esto es una etiqueta que utiliza id*/
+            #aviso{
+                background-color: red;
+                color:white;
+            }
+            
+            /*Esto es unja etiqueta que utiliza class*/
+            .alerta{
+                background-color: bisque;
+                color: green;
+                
+            }
+            
+            a{
+                text-decoration: none;
+                background-color: red;
+                color: whitesmoke;
+            }
+            
+            a:hover{
+                background-color: black;
+                color: aqua;
+                font-size: 20px;
+                transition-delay: 0.2s;
+            }
+            
+            
